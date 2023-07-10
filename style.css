@@ -111,3 +111,18 @@
 .image-link>a{
     color: black;
 }
+.support-container{
+    background-color: rgba(39, 39, 39, 0.05);
+    text-align: center;
+    max-width: 1000px;
+    width: 100%;
+    border-radius: 10px;
+    margin:100px auto auto;
+    
+}
+.support-content{
+    justify-content: space-between;
+    display: flex;
+    padding: 70px 25px;
+    margin: 50px;
+}
