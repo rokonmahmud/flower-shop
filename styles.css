@@ -165,3 +165,125 @@
     margin-top: 20px;
     margin-left: 0px;
 }
+.insta-text{
+    text-align: center;
+    margin-top: 100px;
+}
+.insta-text>h2{
+    color: #272727;
+    text-align: center;
+    font-family: 'Lato';
+    font-size: 40px;
+    font-weight: 800;
+}
+.insta-text>p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: 'Lato';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 15px;
+}
+.insta-container{
+   
+    justify-content: center;
+}
+.insta-image-section{
+    text-align: center;
+    
+    
+}
+.insta-image-section img{
+    margin-top: 30px;
+    margin-right: 30px;
+    
+    
+}
+
+
+.subscribe-banner{
+    width: 70%;
+    margin: auto;
+    height: 150px;
+    background-image: url(img.png);
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    margin-top: 70px;
+    border-radius: 5px;
+    
+}
+.subscribe-banner>input{
+    width: 700px;
+    height: 52px;
+    padding: 0px 40px;
+    border-color: #E55473;
+    border-radius: 5px;
+    font-size: 18px;
+    margin: 70px 25px 2px 156px;
+}
+.subscribe-banner{
+    padding: 100px;
+}
+.girl-section{
+    width: 100%;
+    height: 540px;
+    background-image: url(images/bg-1.webp);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.girl-section-text{
+    text-align: center;
+   
+    position: absolute;
+    top: 200px;
+    right: 250px;
+}
+.girl-section-text>p{
+    width: 500px;
+    color: white;
+    font-family: 'lato';
+    font-style: italic;
+    font-size: 22px;
+    line-height: 28px;
+}
+.girl-section-text img{
+    margin-bottom: 30px;
+}
+.name{
+    margin-top: 20px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 150px;
+    margin-top: 50px;
+}
+.footer>h1{
+    color: #ffffff;
+    font-family: 'Lato';
+    font-size: 48px;
+    margin-bottom: 30px;
+    font-weight: 800;
+
+}
+.footer span{
+    color: #E55473;
+}
+.footer-desc{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: 'Lato';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
